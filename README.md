@@ -17,12 +17,12 @@
     <th>代办事项</th>
   </tr>
   <tr>
-    <td>- [] 播放器换成Dplayer</td>
+    <td>- [ ] 播放器换成Dplayer</td>
   </tr>
   <tr>
-    <td>- [] 页面美化</td>
+    <td>- [ ] 页面美化</td>
   </tr>
   <tr>
-    <td>- [] 优酷网</td>
+    <td>- [ ] 优酷网</td>
   </tr>
 </table>
