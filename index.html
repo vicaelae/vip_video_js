@@ -27,7 +27,7 @@
 
     <script>
     var reg = /\?url=(.*)$/;//由于只传进来一个参数，所以正则匹配的时候只需要匹配"?url="后面的内容
-    var url = window.document.location.href.toString(); //获取的完整url
+    var url = window.document.location.href.toString(); //获取的完整url字符串
     var u = url.match(reg); //正则匹配
     var targetUrl= u[1];
     document.getElementById("vip").src = "https://www.yemu.xyz/?url=" + targetUrl;
