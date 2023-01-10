@@ -12,17 +12,8 @@
   - 网站：爱奇艺、腾讯视频<br>
 <hr>
 # TODO LIST
-<table>
-  <tr>
-    <th>代办事项</th>
-  </tr>
-  <tr>
-    <td>- [ ] 播放器换成Dplayer</td>
-  </tr>
-  <tr>
-    <td>- [ ] 页面美化</td>
-  </tr>
-  <tr>
-    <td>- [ ] 优酷网</td>
-  </tr>
-</table>
+- [x] 支持爱奇艺
+- [x] 支持腾讯视频
+- [ ] 支持优酷
+- [ ] 页面美化
+- [ ] 播放器升级为Dplayer
