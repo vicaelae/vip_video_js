@@ -10,3 +10,19 @@
 现版本支持：<br>
   - 脚本：爱奇艺、腾讯视频<br>
   - 网站：爱奇艺、腾讯视频<br>
+<hr>
+# TODO LIST
+<table>
+  <tr>
+    <th>代办事项</th>
+  </tr>
+  <tr>
+    <td>- [] 播放器换成Dplayer</td>
+  </tr>
+  <tr>
+    <td>- [] 页面美化</td>
+  </tr>
+  <tr>
+    <td>- [] 优酷网</td>
+  </tr>
+</table>
