@@ -2,7 +2,7 @@
 // @name         VIP视频解析
 // @namespace    https://blog.nvwr.software/
 // @version      0.1.3
-// @description  现已支持的平台：爱奇艺
+// @description  现已支持的平台：爱奇艺、腾讯视频
 // @author       vicaelae
 // @match        *://*.iqiyi.com/v_*
 // @match        *://*.iqiyi.com/w_*
@@ -22,7 +22,7 @@
 // ==/UserScript==
 
 /*
-现已支持的平台：爱奇艺
+现已支持的平台：爱奇艺、腾讯视频
 coming soon：腾讯视频，优酷
 */
 (function() {
