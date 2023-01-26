@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         VIP视频解析
-// @namespace    
+// @namespace    https://github.com/vicaelae/vip_video/blob/master/user.js
 // @version      0.1.4
 // @description  现已支持的平台：爱奇艺、腾讯视频
 // @author       vicaelae
@@ -38,9 +38,20 @@ coming soon：优酷
     Container.style.left="0px"
     Container.style.top="150px"
     Container.style['z-index']="999999"
-    Container.innerHTML =`<a href="https://vip_video.4everland.app/?url=${video_url}"target="_blank" class="layui-btn">
+    Container.innerHTML =`<a href=""target="_blank" class="layui-btn" id = "target" onclick="realUrl()">
     VIP视频解析
     </a>`
     document.body.appendChild(Container);
 
 })();
+
+function realUrl(){
+    var url = window.location.href
+    var RealUrl = "https://vip_video.4everland.app/?url=${url}"
+    document.getElementById("target").href=RealUrl
+}
+
+
+
+
+
